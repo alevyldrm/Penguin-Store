@@ -1,4 +1,4 @@
-# 🐧 Penguin - E-Ticaret Giyim Sitesi
+# 🐧 Penguin-Store E-Ticaret Sitesi
 
 Penguin, React ile geliştirilmiş modern ve kullanıcı odaklı bir e-ticaret giyim web uygulamasıdır. Proje, gerçek dünya frontend mimarisi örnek alınarak component bazlı yapı, temiz kod organizasyonu ve performans odaklı kullanıcı deneyimi sunmak amacıyla geliştirilmiştir.
 
