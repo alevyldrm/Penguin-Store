@@ -49,7 +49,7 @@ npm run dev
 ---
 
 ## 🌐 Canlı Demo
-> ([Penguin](https://penguin-ecommerce-store.netlify.app/)
+> ([Penguin])(https://penguin-ecommerce-store.netlify.app/)
 ---
 
 
